@@ -11,7 +11,6 @@ function getRandomGreeting() {
     "doot doot",
     "Cold as ice!",
     "Made in the US!",
-    "Made by 3kh0!",
     "Reload the page NOW!",
     "Downloading your passwords...",
     "WARNING: You may lose braincells if you proceed!",
