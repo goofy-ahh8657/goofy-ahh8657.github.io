@@ -1,5 +1,5 @@
 // --- Config --- //
-var cookiePopupTitle = "Free cookies?!?!";
+var cookiePopupTitle = "Wow, free cookies?!";
 var cookiePopupDesc = "This site uses cookies!";
 var cookiePopupLink = 'By using this website, you consent to the use of these cookies. Accept or die";
 var cookiePopupButton = "POGGERS!";
