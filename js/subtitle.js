@@ -19,7 +19,7 @@ var say = [
   "gluten-free",
   "i'm slim shady, yes i'm slim shady",
   "may contain nuts",
-  "pov that one person who's 2 braincells are fighting for second place"
+  "pov that one person who's 2 braincells are fighting for second place",
   "bada ba ba ba",
   "searching for nearby sushi restauraunts...",
   "site shutting down in two days...jk",
