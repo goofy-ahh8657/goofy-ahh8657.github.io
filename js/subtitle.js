@@ -5,11 +5,21 @@ function changeSub(num) {
 }
 
 
-var say = [];
-say[0] = "apple bottom jeans";
-say[1] = "the floor is made of floor";
-say[2] = "breathing air helps you stay alive";
-say[3] = "welp, i tried :)";
+var say = [
+  "apple bottom jeans",
+  "the floor is made of floor",
+  "breathing air helps you stay alive",
+  "welp, i tried :)",
+  "made by your dad's mom's dad's mom's dad's mom",
+  "gedagedigedagedago abin mery alontamago",
+  "technically good",
+  "khaaaaaaaaaaaaaaaaaaan",
+  "random splash text",
+  "played by cowboys",
+  "gluten-free"
+];
+
+
 
 
 
