@@ -2,7 +2,7 @@
 var cookiePopupTitle = "Wow, free cookies?!";
 var cookiePopupDesc = "This site uses cookies!";
 var cookiePopupLink = "By using this website, you consent to the use of these cookies. Accept or die";
-var cookiePopupButton = "POGGERS!";
+var cookiePopupButton = "YES!🍪";
 
 function pureFadeIn(elem, display) {
   var el = document.getElementById(elem);
